@@ -1,0 +1,111 @@
+{
+  "ai_configs": [
+    {
+      "id": "mo74zhg64pjo9vehu2b",
+      "name": "6789api",
+      "base": "https://www.6789api.top",
+      "apiKey": "sk-V4aUcIeWAMrBsrkG0PvmsxJAPBaIkFlRlgTPkL7TYrINYmKy",
+      "models": [
+        {
+          "id": "deepseek-v3.2",
+          "cat": "chat"
+        },
+        {
+          "id": "doubao-seedance-2-0-260128",
+          "cat": "video"
+        },
+        {
+          "id": "doubao-seedance-2-0-fast-260128",
+          "cat": "video"
+        },
+        {
+          "id": "doubao-seedream-4-5-251128",
+          "cat": "image"
+        },
+        {
+          "id": "doubao-seedream-5-0-260128",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-2.5-flash",
+          "cat": "chat"
+        },
+        {
+          "id": "gemini-2.5-flash-image",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-2.5-pro",
+          "cat": "chat"
+        },
+        {
+          "id": "gemini-3-flash-preview",
+          "cat": "chat"
+        },
+        {
+          "id": "gemini-3-pro-image-preview",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-3-pro-image-preview-2k",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-3-pro-image-preview-4k",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-3-pro-preview",
+          "cat": "chat"
+        },
+        {
+          "id": "gemini-3.1-flash-image-preview",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-3.1-flash-image-preview-2k",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-3.1-flash-image-preview-4k",
+          "cat": "image"
+        },
+        {
+          "id": "gemini-3.1-flash-image-preview-512px",
+          "cat": "image"
+        },
+        {
+          "id": "nano-banana-2-2k",
+          "cat": "image"
+        },
+        {
+          "id": "nano-banana-2-4k",
+          "cat": "image"
+        },
+        {
+          "id": "nano-banana-pro",
+          "cat": "image"
+        }
+      ],
+      "defaultImageModel": "gemini-2.5-flash-image",
+      "defaultVideoModel": "doubao-seedance-2-0-fast-260128"
+    },
+    {
+      "id": "mo74zht1r5jw3jy422",
+      "name": "",
+      "base": "",
+      "apiKey": "",
+      "models": [],
+      "defaultImageModel": "",
+      "defaultVideoModel": ""
+    }
+  ],
+  "ai_active_config": "mo74zhg64pjo9vehu2b",
+  "ai_theme": "system",
+  "ai_custom_roles": [],
+  "ai_tavily_key": "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",
+  "ai_tab": "image",
+  "ai_chat_streaming_mode": "non-stream",
+  "ai_image_streaming_mode": "non-stream",
+  "ai_video_streaming_mode": "non-stream"
+}
